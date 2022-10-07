@@ -1,6 +1,7 @@
 .DS_Store
 .env*
 .flaskenv
+myenv/*
 *.pyc
 *.pyo
 env/
@@ -29,3 +30,4 @@ htmlcov/
 .direnv
 
 .github/**
+.github/workflows/*
